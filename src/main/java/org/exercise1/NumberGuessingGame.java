@@ -7,8 +7,6 @@ public class NumberGuessingGame {
     private static final Random random = new Random();
     private static final Scanner scanner;
 
-    public NumberGuessingGame() {
-    }
 
     public static void main(String[] args) {
         System.out.println(" NUMBER GUESSING GAME ");
